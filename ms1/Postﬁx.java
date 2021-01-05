@@ -1,6 +1,6 @@
 /*
  * vchorbov
- * Matrikelnummer: 7354029
+ * 
  */
 
 package ms1;
