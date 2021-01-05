@@ -1,5 +1,5 @@
 /*
- * Velichka Chorbova
+ * vchorbov
  * Matrikelnummer: 7354029
  */
 
