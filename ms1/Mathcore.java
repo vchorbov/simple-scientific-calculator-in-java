@@ -1,6 +1,6 @@
 /*
- * Velichka Chorbova
- * Matrikelnummer: 7354029
+ * vchorbov
+ *
  */
 package ms1;
 
